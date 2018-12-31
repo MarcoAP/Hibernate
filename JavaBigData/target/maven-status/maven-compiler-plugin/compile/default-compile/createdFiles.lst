@@ -1,0 +1,6 @@
+com/everis/controller/HibernateController.class
+com/everis/properties/JavaHive.class
+com/everis/properties/JavaSpark.class
+com/everis/dao/TerereDAO.class
+com/everis/properties/JavaImpala.class
+com/everis/model/TerereModel.class
